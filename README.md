@@ -13,5 +13,6 @@ To set up and run the project, clone the repository, install the necessary Pytho
 
 The DataSpark project aims to provide actionable insights and support data-driven decision-making processes. With its robust data cleaning, comprehensive analysis, and insightful visualizations, it serves as a powerful tool for improving business operations in the electronics retail sector.
 
-For further details and a more in-depth understanding, you can refer to the provided project documentation, including guidelines for setup and usage, as well as additional resources for Power BI and Tableau visualizations.
+For further details and a more in-depth understanding, you can refer to the provided project documentation, including guidelines for setup and usage, as well as additional resources for Power BI 
+visualizations.
 
